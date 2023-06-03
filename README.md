@@ -1,6 +1,9 @@
 # Fraud_CreditCard
 SQL &amp; Python notebook
 
+
+![image](https://github.com/NeycJ/Fraud_CreditCard/assets/119983738/7aa4a94c-095c-4d15-abf2-9b213dc3f08a)
+
 ##Background
 Fraud is prevalent these days, whether you are a small taco shop or a large international business. While there are emerging technologies that employ machine learning and artificial intelligence to detect fraud, many instances of fraud detection still require strong data analytics to find abnormal charges.
 
